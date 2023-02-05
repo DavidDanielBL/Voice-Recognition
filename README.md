@@ -1,3 +1,3 @@
 # Voice-Recognition
 Voice Recognition in java
-![Screenshot](picture].png) 
+![Screenshot](picture.png) 
